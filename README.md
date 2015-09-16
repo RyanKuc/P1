@@ -20,6 +20,7 @@ _Please note that these are high level descriptions of some of the changes I mad
 ## Details
 No login required.
 Right now P2, P3, P4 are repos that are empty aside from a README.md file.
+The CSS for bootstrap does not validate but the CSS file carousel.css does. Assuming this is okay since the project requirements allow the use of bootstrap.
 
 ## Outside Code
 * Bootstrap [http://getbootstrap.com/]
