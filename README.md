@@ -13,9 +13,12 @@ To complete P1, I opted to use the Bootstrap front end framework based on its re
 * Removing the extra heading divs around my profile picture and then adjusting the layout to keep it responsive
 * Adding content and links to external pages, updated source links
 * Modified carousel.css for several things like ensuring my text and pictures align vertically
+_Please note that these are high level descriptions of some of the changes I made, for a complete list please review my [commit history](https://github.com/RyanKuc/P1/commits/master) for this project_
+
 
 ## Details
-
+No login required.
+Right now P2, P3, P4 are repos that are empty aside from a README.md file.
 
 ## Outside Code
 * Bootstrap [http://getbootstrap.com/]
